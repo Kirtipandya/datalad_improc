@@ -7,3 +7,8 @@
 	path = code/improc
 	url = https://github.com/robinwitte/improc.git
 	branch = master
+[submodule "outputs"]
+	path = outputs
+	url = ./outputs
+	branch = master
+	datalad-id = 77f93934-4e69-11ea-8b10-9801a7ae0ff5
